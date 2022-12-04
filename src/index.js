@@ -8,7 +8,7 @@ import App from "./components/App";
 // import reportWebVitals from "./reportWebVitals";
 import rootReducer from "./reducers";
 import Navbar2 from "./components/Navbar2";
-import { Route, Link, BrowserRouter as Router } from "react-router-dom";
+// import { Route, Link, BrowserRouter as Router } from "react-router-dom";
 
 // logger({obj})(next)(action)
 const logger = ({ dispatch, getState }) => next => action => {
