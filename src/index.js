@@ -7,7 +7,7 @@ import "./index.css";
 import App from "./components/App";
 // import reportWebVitals from "./reportWebVitals";
 import rootReducer from "./reducers";
-import Navbar2 from "./components/Navbar2";
+// import Navbar2 from "./components/Navbar2";
 import { Route, Link, BrowserRouter as Router, Routes } from "react-router-dom";
 
 // import Home from "./components/Home";
